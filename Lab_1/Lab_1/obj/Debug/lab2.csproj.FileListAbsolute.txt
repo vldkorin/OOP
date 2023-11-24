@@ -5,3 +5,17 @@ D:\C#\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
 D:\C#\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
 D:\C#\Lab_1\Lab_1\bin\Debug\Lab_1.exe
 D:\C#\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+C:\Users\Mykola\Desktop\Lab_1\Lab_1\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\Mykola\Desktop\Lab_1\Lab_1\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Mykola\Desktop\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+C:\Users\Mykola\Desktop\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
+C:\Users\Mykola\Desktop\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+C:\Users\Mykola\Desktop\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+C:\Users\Mykola\Desktop\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+C:\Users\Едвардос\Desktop\Lab_1 (2)\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+C:\Users\Едвардос\Desktop\Lab_1 (2)\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+C:\Users\Едвардос\Desktop\Lab_1 (2)\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+C:\Users\Едвардос\Desktop\Lab_1 (2)\Lab_1\Lab_1\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\Едвардос\Desktop\Lab_1 (2)\Lab_1\Lab_1\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Едвардос\Desktop\Lab_1 (2)\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+C:\Users\Едвардос\Desktop\Lab_1 (2)\Lab_1\Lab_1\obj\Debug\Lab_1.pdb

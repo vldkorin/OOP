@@ -36,16 +36,25 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="lab2\GameAccounts\ReducedPenaltyGameAccount.cs" />
-    <Compile Include="lab2\GameAccounts\StandardGameAccount.cs" />
-    <Compile Include="lab2\GameAccounts\WinStreakGameAccount.cs" />
-    <Compile Include="lab2\GameTypes\DoublePointsGame.cs" />
-    <Compile Include="lab2\GameTypes\StandardGame.cs" />
-    <Compile Include="lab2\GameTypes\TrainGame.cs" />
-    <Compile Include="lab2\Game.cs" />
-    <Compile Include="lab2\GameAccount.cs" />
-    <Compile Include="lab2\GameFactory.cs" />
-    <Compile Include="lab2\Program.cs" />
+    <Compile Include="lab3\Interfaces\ IGameRepository.cs" />
+    <Compile Include="lab3\GameAccountRepository.cs" />
+    <Compile Include="lab3\GameAccountService.cs" />
+    <Compile Include="lab3\GameRepository.cs" />
+    <Compile Include="lab3\GameService.cs" />
+    <Compile Include="lab3\Interfaces\IGameAccountRepository.cs" />
+    <Compile Include="lab3\DbContext.cs" />
+    <Compile Include="lab3\GameAccounts\ReducedPenaltyGameAccount.cs" />
+    <Compile Include="lab3\GameAccounts\StandardGameAccount.cs" />
+    <Compile Include="lab3\GameAccounts\WinStreakGameAccount.cs" />
+    <Compile Include="lab3\GameTypes\DoublePointsGame.cs" />
+    <Compile Include="lab3\GameTypes\StandardGame.cs" />
+    <Compile Include="lab3\GameTypes\TrainGame.cs" />
+    <Compile Include="lab3\Game.cs" />
+    <Compile Include="lab3\GameAccount.cs" />
+    <Compile Include="lab3\GameFactory.cs" />
+    <Compile Include="lab3\Interfaces\IGameAccountService.cs" />
+    <Compile Include="lab3\Interfaces\IGameService.cs" />
+    <Compile Include="lab3\Program.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
