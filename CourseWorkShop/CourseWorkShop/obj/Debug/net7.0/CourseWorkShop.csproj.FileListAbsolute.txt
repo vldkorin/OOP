@@ -1,0 +1,14 @@
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\bin\Debug\net7.0\CourseWorkShop.exe
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\bin\Debug\net7.0\CourseWorkShop.deps.json
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\bin\Debug\net7.0\CourseWorkShop.runtimeconfig.json
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\bin\Debug\net7.0\CourseWorkShop.dll
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\bin\Debug\net7.0\CourseWorkShop.pdb
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\obj\Debug\net7.0\CourseWorkShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\obj\Debug\net7.0\CourseWorkShop.AssemblyInfoInputs.cache
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\obj\Debug\net7.0\CourseWorkShop.AssemblyInfo.cs
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\obj\Debug\net7.0\CourseWorkShop.csproj.CoreCompileInputs.cache
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\obj\Debug\net7.0\CourseWorkShop.dll
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\obj\Debug\net7.0\refint\CourseWorkShop.dll
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\obj\Debug\net7.0\CourseWorkShop.pdb
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\obj\Debug\net7.0\CourseWorkShop.genruntimeconfig.cache
+C:\Users\Едвардос\Desktop\Курсова\CourseWorkShop\CourseWorkShop\obj\Debug\net7.0\ref\CourseWorkShop.dll
